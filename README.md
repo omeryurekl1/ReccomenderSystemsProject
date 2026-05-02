@@ -52,6 +52,11 @@ All models use the provided train/test split:
 - `hybrid_cf_content.ipynb`  
   Creative extension model: hybrid CF + content recommender. Reports ranking metrics plus extension-specific metrics.
 
+### Data Analysis
+- `data_analysis.ipynb`
+  Analyzes data counts/aggregations and creates visual plots.
+
+
 ### Demo Notebooks
 
 - `demo_content_based-2.ipynb`  
